@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Portada
+comment1.params=
+comment1.target=boolean\ conectar()
+comment2.params=
+comment2.target=boolean\ desconectar()
+comment3.params=
+comment3.target=boolean\ abrir()
+comment4.params=
+comment4.target=boolean\ cerrar()
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GestorTareas
+comment1.params=tarea\ p
+comment1.target=void\ ejecutar(TareaProducto,\ Producto)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Luces
+comment1.params=
+comment1.target=boolean\ conectar()
+comment2.params=
+comment2.target=boolean\ desconectar()
+comment3.params=
+comment3.target=boolean\ encender()
+comment4.params=
+comment4.target=boolean\ apagar()
+numComments=5

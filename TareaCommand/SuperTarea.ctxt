@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuperTarea
+comment1.params=tarea
+comment1.target=void\ addTarea(TareaProducto)
+comment2.params=producto
+comment2.target=void\ ejecutar(Producto)
+numComments=3
